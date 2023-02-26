@@ -8,7 +8,8 @@
     "target_path": "kernel/xiaomi/sweet"
   },
   {
-    "repository": "android_hardware_xiaomi",
+    "repository": "ArrowOS-Devices/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi"
+    "branch"     : "arrow-13.0"
   }
 ]
