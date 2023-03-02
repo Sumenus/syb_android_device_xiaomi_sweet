@@ -392,3 +392,5 @@ PRODUCT_PACKAGES += \
     android.hardware.neuralnetworks@1.3.vendor
 
 include vendor/xiaomi/sweet/sweet-vendor.mk
+
+include vendor/gapps/arm64/arm64-vendor.mk
