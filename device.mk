@@ -1,3 +1,5 @@
+GAPPS_VARIANT := nano
+
 # Shipping level
 PRODUCT_SHIPPING_API_LEVEL := 30
 
