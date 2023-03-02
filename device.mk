@@ -1,4 +1,6 @@
+# GAPPS
 GAPPS_VARIANT := nano
+$(call inherit-product, vendor/opengapps/build/opengapps-packages.mk)
 
 # Shipping level
 PRODUCT_SHIPPING_API_LEVEL := 30
