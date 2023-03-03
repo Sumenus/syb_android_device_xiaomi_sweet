@@ -389,4 +389,4 @@ PRODUCT_PACKAGES += \
 
 include vendor/xiaomi/sweet/sweet-vendor.mk
 
-include vendor/gapps/arm64/arm64-vendor.mk
+include vendor/gapps/arm64/config.mk
